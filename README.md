@@ -25,8 +25,8 @@ Text2SQL-LeGoat/
 
 1. **Clone the repository**
 ```powershell
-git clone https://github.com/your-username/LeGoat.git
-cd LeGoat
+git clone https://github.com/your-username/CS-175-Project.git
+cd CS-175-Project
 ```
 
 2. **Create and activate a virtual environment** (recommended)
